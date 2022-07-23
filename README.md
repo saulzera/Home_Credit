@@ -3,7 +3,7 @@
 # Modelo de Crédito para Financiamento de Imóveis
 
 
-
+Projeto de conclusão de 3 Módulos de Machine Learning pela Let's Code, com o objetivo de criar um modelo para
 
 
 
